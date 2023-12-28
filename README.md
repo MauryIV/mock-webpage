@@ -7,13 +7,13 @@ The start of my webpage for contacting me. As of this moment, is mimicking the o
 NA
 
 ## Visuals
-![Alt text](F42EE86B-D1AD-4F34-87E9-4BB3C02DE6AD.jpeg)
+![Alt text](./assets/images/F42EE86B-D1AD-4F34-87E9-4BB3C02DE6AD.jpeg)
 
 ##  Installation
 NA
 
 ## Usage
-Used as a base for a contact me page. Will have links to Github and Portfolio, as well as an input section that eventually will email me directly so I can respond. file:///Users/mauryhughesivgmail.com/bootcamp/module-01-project/index.html
+Used as a base for a contact me page. Will have links to Github and Portfolio, as well as an input section that eventually will email me directly so I can respond. (https://mauryiv.github.io/module-01-project/)
 
 ## Support
 NA

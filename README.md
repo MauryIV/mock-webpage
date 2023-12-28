@@ -13,7 +13,7 @@ NA
 NA
 
 ## Usage
-Used as a base for a contact me page. Will have links to Github and Portfolio, as well as an input section that eventually will email me directly so I can respond. (https://mauryiv.github.io/module-01-project/)
+Used as a base for a contact me page. Will have links to Github and Portfolio, as well as an input section that eventually will email me directly so I can respond. https://mauryiv.github.io/module-01-project/
 
 ## Support
 NA
